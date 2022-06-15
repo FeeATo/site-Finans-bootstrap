@@ -1,0 +1,14 @@
+/*Estrutura do topo*/
+.marcador{
+    background: #fe9d9d;
+    border: 1px solid #f94646;
+}
+
+.caixa{
+    padding: 60px 0;
+    border-bottom: 1px solid #e5e5e5;
+}
+
+.rodape{
+    padding: 10px 0;
+}
